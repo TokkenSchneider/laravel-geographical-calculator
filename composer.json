@@ -15,7 +15,7 @@
     "prefer-stable": true,
     "require-dev": {
         "orchestra/testbench": "^6.23",
-        "phpunit/phpunit": "^9.5|^10",
+        "phpunit/phpunit": "^9.5|^10"
     },
     "autoload" : {
         "psr-4": {
